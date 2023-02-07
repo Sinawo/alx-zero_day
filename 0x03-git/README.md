@@ -1,1 +1,1 @@
-This in a readme file for the git second project
+This is a modified a readme file for 0x03-git project
